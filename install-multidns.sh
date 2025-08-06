@@ -5,8 +5,8 @@
 # =============================================
 DOMINIO="multi.prov.top"          # Seu domínio principal
 EMAIL="admin@multi.prov.top"      # E-mail para certificados SSL
-USUARIO="apolo"                   # Usuário do dashboard
-SENHA="yagusto0065"               # Senha do dashboard
+USUARIO="admin"                   # Usuário do dashboard
+SENHA="admin"               # Senha do dashboard
 FUSO_HORARIO="America/Sao_Paulo"  # Ajuste o fuso horário se necessário
 
 # =============================================
